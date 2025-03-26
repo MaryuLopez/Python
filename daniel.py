@@ -1,0 +1,1 @@
+# Declara 5 variables con diferentes tipos de datos
