@@ -33,3 +33,30 @@
 #***
 #****
 #*****
+
+
+n = int(input("pon el numero: "))
+for a in range(1,11):
+    print (n ," * " , a ,"=", n * a)
+# tabla de multiplicaichon
+
+
+# ejercicio raro de pares y impares
+
+#x = int(input("pon tu numero: "))
+#par = 0
+#ipar = 0
+#for x in range(1,x+1):
+#    if x % 2 == 0:
+#        par += x
+#    else:
+#        ipar += x
+#print (par, "   ", ipar)
+
+# asteriscos
+
+# x = int(input("pon tu numero: "))
+# for a in range(1,x+1):
+#     print ("*" * a)
+
+# #terminado
