@@ -12,7 +12,7 @@
 # .
 # .
 # .
-# 7 x 10 = 70
+# 7 x 10 = 70 :)
 
 
 #2. Suma de numeros, pedir al usuario un numero, se va a recorrer esos numeros de tal manera que con condiconales se separan los impares de los pares, y se realizan una suma de todos los pares y una suma de todos los impares.
