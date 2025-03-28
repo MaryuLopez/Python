@@ -39,7 +39,7 @@
 
 #5.  Crea un programa que determine si un triagnulo es Equilatero(todos sus lados son iguales), isosceles(Dos lados igaules) o escaleno (No tiene lados iguale ), reglas, usar input y condicionales 
 
-#6.  Escribe un programa que solicite al usuario un número entero .Luego, el programa debe recorrer los números del 1 hasta numero e imprimir:
+#6.  Escribe un programa que solicite al usuario un número entero .Luego, el programa debe recorrer(range(), for) los números del 1 hasta numero e imprimir:
 # "Fizz" si el número es divisible por 3.
 # "Buzz" si el número es divisible por 5.
 # "FizzBuzz" si es divisible por ambos (3 y 5).
