@@ -1,3 +1,27 @@
+#num = int(input("Ingrese un numero del 1 al 10: "))
+#for num2 in range(1,10+1):
+#    print(f"{num} * {num2} = {num*num2}")
+
+#n = int(input("Ingrese un numero: "))
+#par = 0
+#impar = 0
+#for n2 in range(1, n+1):
+    #if n2 % 2 == 0:
+        #par += n2
+    #else:
+        #impar += n2
+#print(f"Suma de pares: {par}")
+#print(f"Suma de impares: {impar}")
+
+#num = int(input("Ingrese un número entero positivo: "))
+
+#numero = int(input("Ingrese un numero positivo: "))
+#for n in range(1,numero+1):
+#    print("*" * n)
+
+
+
+
 #EJERCICIOS
 
 #1. relizar una tabla de multiplicar, el ejercicio consta de Pedir al usuario un determininado numero este numero debe ser unicamente numero positivo del 1 al 10 y ,de lo contrario muestra prints invalidos, y de este numero se va a mostrar una tabla de multiplicar desde el 1 hasta el 10 de ese numero.
