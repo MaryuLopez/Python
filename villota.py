@@ -12,7 +12,7 @@
 # .
 # .
 # .
-# 7 x 10 = 70
+# 7 x 10 = 70 :)
 
 
 #2. Suma de numeros, pedir al usuario un numero, se va a recorrer esos numeros de tal manera que con condiconales se separan los impares de los pares, y se realizan una suma de todos los pares y una suma de todos los impares.
@@ -33,3 +33,19 @@
 #***
 #****
 #*****
+
+
+
+#NUEVOS EJERCICIOS
+#4.  Le van a pedir al usuario 3 numeros, y esos numeros deben organizalor de menor a mayor, de tal manera que por consola me va a mostrar los 3 numeros organizados de mayor a menor (Usando condicionales)
+
+#5.  Crea un programa que determine si un triagnulo es Equilatero(todos sus lados son iguales), isosceles(Dos lados igaules) o escaleno (No tiene lados iguale ), reglas, usar input y condicionales 
+
+#6.  Escribe un programa que solicite al usuario un número entero .Luego, el programa debe recorrer(range(), for) los números del 1 hasta numero e imprimir:
+# "Fizz" si el número es divisible por 3.
+# "Buzz" si el número es divisible por 5.
+# "FizzBuzz" si es divisible por ambos (3 y 5).
+# El número mismo si no es divisible por ninguno.
+
+#7. Escribe un programa que le pida al usuario un número entero y diga si es: Positivo y par, Positivo e impar, Negativo , Cero( con este ultimo, el cero, se debe de mostrar numero neutro y par), 
+
